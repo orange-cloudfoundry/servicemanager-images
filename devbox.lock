@@ -277,6 +277,54 @@
         }
       }
     },
+    "mongosh@2.3.7": {
+      "last_modified": "2025-01-19T08:16:51Z",
+      "resolved": "github:NixOS/nixpkgs/50165c4f7eb48ce82bd063e1fb8047a0f515f8ce#mongosh",
+      "source": "devbox-search",
+      "version": "2.3.7",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/yz0x0yll9yxmxrxm0m8xwzd05jqjvlxn-mongosh-2.3.7",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/yz0x0yll9yxmxrxm0m8xwzd05jqjvlxn-mongosh-2.3.7"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/q97m3mdz966qbmvl7yyp69wasbwhhdyd-mongosh-2.3.7",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/q97m3mdz966qbmvl7yyp69wasbwhhdyd-mongosh-2.3.7"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/jagzqjam4q08l8hjcak30cngbzmzkhvh-mongosh-2.3.7",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/jagzqjam4q08l8hjcak30cngbzmzkhvh-mongosh-2.3.7"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/7yxx0734i7ync4q7khhwwblh7k6vags4-mongosh-2.3.7",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/7yxx0734i7ync4q7khhwwblh7k6vags4-mongosh-2.3.7"
+        }
+      }
+    },
     "nushellFull@0.93.0": {
       "last_modified": "2024-05-22T06:18:38Z",
       "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#nushellFull",
