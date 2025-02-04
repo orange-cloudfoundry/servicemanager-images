@@ -4,7 +4,9 @@
     "kubectl@1.31.2",
     "nushellFull@0.93.0",
     "crossplane-cli@1.18.2",
-    "kyverno-chainsaw@0.2.12"
+    "kyverno-chainsaw@0.2.12",
+    "go-task@3.41.0",
+    "envsubst@1.4.2"
   ],
   "shell": {
     "init_hook": [
