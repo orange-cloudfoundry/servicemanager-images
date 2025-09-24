@@ -277,51 +277,51 @@
         }
       }
     },
-    "mongosh@2.3.7": {
-      "last_modified": "2025-01-19T08:16:51Z",
-      "resolved": "github:NixOS/nixpkgs/50165c4f7eb48ce82bd063e1fb8047a0f515f8ce#mongosh",
+    "mongosh@2.5.8": {
+      "last_modified": "2025-09-18T16:33:27Z",
+      "resolved": "github:NixOS/nixpkgs/f4b140d5b253f5e2a1ff4e5506edbf8267724bde#mongosh",
       "source": "devbox-search",
-      "version": "2.3.7",
+      "version": "2.5.8",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/yz0x0yll9yxmxrxm0m8xwzd05jqjvlxn-mongosh-2.3.7",
+              "path": "/nix/store/bcf21igda6qda09sawqrwz2yqn46fdk1-mongosh-2.5.8",
               "default": true
             }
           ],
-          "store_path": "/nix/store/yz0x0yll9yxmxrxm0m8xwzd05jqjvlxn-mongosh-2.3.7"
+          "store_path": "/nix/store/bcf21igda6qda09sawqrwz2yqn46fdk1-mongosh-2.5.8"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/q97m3mdz966qbmvl7yyp69wasbwhhdyd-mongosh-2.3.7",
+              "path": "/nix/store/v0717wk9xswkiflqiyinckbisfj08bf1-mongosh-2.5.8",
               "default": true
             }
           ],
-          "store_path": "/nix/store/q97m3mdz966qbmvl7yyp69wasbwhhdyd-mongosh-2.3.7"
+          "store_path": "/nix/store/v0717wk9xswkiflqiyinckbisfj08bf1-mongosh-2.5.8"
         },
         "x86_64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/jagzqjam4q08l8hjcak30cngbzmzkhvh-mongosh-2.3.7",
+              "path": "/nix/store/zc4viw2am3s1zpdngba9jyzd33abm88n-mongosh-2.5.8",
               "default": true
             }
           ],
-          "store_path": "/nix/store/jagzqjam4q08l8hjcak30cngbzmzkhvh-mongosh-2.3.7"
+          "store_path": "/nix/store/zc4viw2am3s1zpdngba9jyzd33abm88n-mongosh-2.5.8"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/7yxx0734i7ync4q7khhwwblh7k6vags4-mongosh-2.3.7",
+              "path": "/nix/store/0jj2wfc4kkrhc457c4j9k10gv6bmswbn-mongosh-2.5.8",
               "default": true
             }
           ],
-          "store_path": "/nix/store/7yxx0734i7ync4q7khhwwblh7k6vags4-mongosh-2.3.7"
+          "store_path": "/nix/store/0jj2wfc4kkrhc457c4j9k10gv6bmswbn-mongosh-2.5.8"
         }
       }
     },
