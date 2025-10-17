@@ -7,7 +7,7 @@
     "go-task@3.41.0",
     "envsubst@1.4.2",
     "mongosh@2.3.7",
-    "nushell@0.101.0",
+    "nushell@0.106.1",
     "curl@8.16.0",
     "jq@1.8.1"
   ],
