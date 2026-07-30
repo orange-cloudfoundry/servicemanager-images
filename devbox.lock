@@ -173,51 +173,51 @@
         }
       }
     },
-    "envsubst@1.4.2": {
-      "last_modified": "2025-01-19T08:16:51Z",
-      "resolved": "github:NixOS/nixpkgs/50165c4f7eb48ce82bd063e1fb8047a0f515f8ce#envsubst",
+    "envsubst@1.4.3": {
+      "last_modified": "2026-07-23T05:10:05Z",
+      "resolved": "github:NixOS/nixpkgs/7525d999cd850b9a488817abc89c75dc733acf17#envsubst",
       "source": "devbox-search",
-      "version": "1.4.2",
+      "version": "1.4.3",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/6gfs75frkqj4br111lpd7bscgkvw9ydr-envsubst-1.4.2",
+              "path": "/nix/store/y5lyzyhlcp1pxlmia4srnv1hgvk5y767-envsubst-1.4.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/6gfs75frkqj4br111lpd7bscgkvw9ydr-envsubst-1.4.2"
+          "store_path": "/nix/store/y5lyzyhlcp1pxlmia4srnv1hgvk5y767-envsubst-1.4.3"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/rz8kslljmy8z1mx50dnaf68p0d4k0km2-envsubst-1.4.2",
+              "path": "/nix/store/gc9dspyh9ivhpbw3r90356m5rkbb9k16-envsubst-1.4.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/rz8kslljmy8z1mx50dnaf68p0d4k0km2-envsubst-1.4.2"
+          "store_path": "/nix/store/gc9dspyh9ivhpbw3r90356m5rkbb9k16-envsubst-1.4.3"
         },
         "x86_64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/r042ygqqpamyiv5xvf1ij38c8hv5c6mh-envsubst-1.4.2",
+              "path": "/nix/store/jhjglcda461bk9hpv7lsa35x2c1jvzxi-envsubst-1.4.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/r042ygqqpamyiv5xvf1ij38c8hv5c6mh-envsubst-1.4.2"
+          "store_path": "/nix/store/jhjglcda461bk9hpv7lsa35x2c1jvzxi-envsubst-1.4.3"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/snlai7nxkq71sl2jchy6a8zv7bfaf46q-envsubst-1.4.2",
+              "path": "/nix/store/vxsqxhmnw8qmv8ar8g8q0hxfmq450ksw-envsubst-1.4.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/snlai7nxkq71sl2jchy6a8zv7bfaf46q-envsubst-1.4.2"
+          "store_path": "/nix/store/vxsqxhmnw8qmv8ar8g8q0hxfmq450ksw-envsubst-1.4.3"
         }
       }
     },
